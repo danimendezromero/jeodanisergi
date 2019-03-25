@@ -1,0 +1,30 @@
+Deporte:100:¿Cuántas finales del mundo jugó la Selección Argentina de fútbol?:Cuatro$:Cinco:Seis
+Deporte:200:¿Cuál es el estilo de natación más rápido?:Espalda:Mariposa:Crol$
+Deporte:300:¿Cuántos jugadores componen un equipo de rugby?:11:15$:18
+Deporte:400:¿Quién inventó el arte marcial llamado Jeet Kune Do?:David Carradine:Bruce Lee$:Kato Mimoko
+Deporte:500:¿Cuánto pesa aproximadamente una bola de bolera?:4,5kg:5,25kg:7,25kg$
+Anime:100:¿Cúal es el personaje principal de Attack on Titan?:Eren$:Mikasa:Levi
+Anime:200:¿Cúantos capitulos tiene un anime corto?:6:10:12$
+Anime:300:¿Cuando saldra la segunda temporada de NoGameNoLife?:Abril 2019:Diciembre 2019:Nunca D:$
+Anime:400:¿Como se llama la segunda parte de Dragon Ball?:Dragon Ball 2:Dragon Ball Z$:Dragon Ball GT
+Anime:500:¿Como se llama Ash Ketchum en japones?:Satoshi$:Natsuki:Takeshi
+Cine:100:¿Quién dirigió 'El club de los poetas muertos'?:Robert Benton:Gus Van Sant:Peter Weir$
+Cine:200:¿Cómo se llama el horrible vecino de 'Toy Story'?:Sid$:Max:Tommy
+Cine:300:¿Qué usa James Stewart en 'La ventana indiscreta' para espiar a sus vecinos?:Una cámara con objetivo$:Un telescopio:Unos prismaticos
+Cine:400:¿Cómo se llamaban los ladrones de 'Solo en casa'?:Barry y Mark:Harry y Marv$:Harvey y Marvin
+Cine:500:¿Cuál de estas películas animadas fue la primera en obtener una nominación a los Oscar como Mejor Película?:La bella y la bestia$:Aladdin:Toy Story
+Musica:100:¿Cuál de estos es el nombre de un álbum de los Beatles?:Candlestick:Revolver$:Lead Piping
+Musica:200:¿En qué ciudad inglesa nació Noel Gallagher?:Liverpool:Londres:Manchester$
+Musica:300:¿De qué país es Justin Bieber?:Canadá$:EEUU:Australia
+Musica:400:¿Qué banda de rock fundó Jimmy Page en 1968?Manfred Mann:Black Sabbath:Led Zappelin$
+Musica:500:¿Qué Beatle cantó la voz principal en 'Lady Madonna'?:John:George:Paul$
+Historia:100:¿En que año llego el hombre a la luna?:1960:1969$:1990
+Historia:200:¿Cuál es la capital de Japon?:Osaka:Fukuoka:Tokio$
+Historia:300:¿Quién fue el primer emperador romano?:Julio Cesar$:Cesar Augusto:Nerón
+Historia:400:¿Cuál de estas no es una las 7 maravillas del mundo antiguo?:Partenon$:Templo de Artemisa:Gran piramide de Guiza
+Historia:500:¿Qué faraón era el marido de Nefertiti?:Ramses I:Ramses II:Akenaton$
+Ciencia:100:¿Como se llama el proceso por el que una célula se divide para formar dos células hijas?:Meiosis:Mitosis:Segregación
+Ciencia:200:¿Con qué respira una ballena?:Por la piel:Branquias:Pulmones$
+Ciencia:300:La fuerza física que la tierra ejerce sobre los cuerpos hacia su centro es la...:Rozamiento:Gravedad$:Normal
+Ciencia:400:¿A que velocidad viaja la luz?:30,000Km/h:300,000km/s$:300,000m/s
+Ciencia:500:¿Cuál es la principal función de los globulos rojos?:Combatir enfermedades:Llevar oxigeno$:Coagular la sangre
