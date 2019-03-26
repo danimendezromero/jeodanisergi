@@ -3,9 +3,6 @@ package view;
 import javax.swing.*;
 import java.awt.*;
 
-/* La vista PlayersView se basa en una GridBagLayout donde definimos dos cajas de texto y dos labels para que los usuarios puedan introducir su nombre. Contiene dos botones para empezar la partida o
-cancelar
- */
 public class JugadoresVista extends JFrame {
 
     private JLabel jugador1,jugador2;

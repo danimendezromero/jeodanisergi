@@ -16,8 +16,6 @@ public class Respuesta {
         this.texto = texto;
     }
 
-    
-
     public boolean esRespuestaCorrecta() {
         return respuestaCorrecta;
     }

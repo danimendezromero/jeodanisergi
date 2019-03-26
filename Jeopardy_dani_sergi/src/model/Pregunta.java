@@ -8,7 +8,7 @@ public class Pregunta {
     private String categoria;
     private int puntos;
     private ArrayList<Respuesta> respuesta;
-    public String getText() {
+    public String getTexto() {
         return texto;
     }
 
@@ -31,13 +31,14 @@ public class Pregunta {
     public void setPuntos(int puntos) {
         this.puntos = puntos;
     }
-        public ArrayList<respuesta> getRespuesta() {
+        public ArrayList<Respuesta> getRespuesta() {
         return respuesta;
     }
 
-    public void setAnswers(ArrayList<Respuesta> respuestas) {
+    public void setresupestas(ArrayList<Respuesta> respuestas) {
         this.respuesta = respuestas;
     }
+    
     @Override
     public String toString() {
         return "Pregunta{" + "texto='" + texto + '\'' + ", puntos=" + puntos + ", respuesta=" + respuesta + '}';

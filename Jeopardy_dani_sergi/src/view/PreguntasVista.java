@@ -11,9 +11,7 @@ import javax.swing.*;
 import java.awt.*;
 
 
-/* La vista QuestionsView dispone de un BorderLayout segmentado en un Panel con GridLayout para mostrar todas las categorías y preguntas y un JSplitPane en la posición SOUTH para poder mostrar la información
-actual de los jugadores en cada costado de dicho panel
- */
+
 public class PreguntasVista extends JFrame {
     private JButton[][] casillas;
     private JPanel jugador1Tablero;
